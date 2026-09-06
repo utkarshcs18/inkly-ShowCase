@@ -26,13 +26,13 @@ The source stays private. This page is the window.
 
 **It refuses the timeline.** Home is a shelf of fresh ink and new desks. You page through it like a journal — Back, Forward — not an endless scroll that never lets you arrive.
 
-**The cover is a wash, not a stock photo.** Each piece wears a colour — ember, dusk, sea — so the title can sit in the light instead of competing with a thumbnail.
+**The cover is a wash, not a stock photo.** Each piece wears a colour — ember, dusk, tide — and the title and excerpt sit *in* that light. The wash grows with the writing. Nothing inside it scrolls. Minutes and date wait below, like a colophon; tags on the left, the writer’s name on the right.
 
-**A desk is a place, not a bio card.** Public profiles feel like rooms: accent, portrait, a note on the door, a count of pieces and hearts. Owners keep a second drawer — the archive — for work that is finished talking for now.
+**A desk is a place, not a bio card.** Public profiles feel like rooms: accent, portrait, a note on the door, a count of pieces and hearts. Owners keep two private drawers — **Marks** for pages still becoming, and the **archive** for work that is finished talking for now.
 
-**The page is the product.** Fraunces for the voice, Outfit for the hands. Dark paper or cream. A film of grain so the screen does not look like glass. A thin progress line while you read. Motion that is smooth enough to forget.
+**The page is the product.** Fraunces for the voice, Outfit for the hands. Off-white linen by day; warm charcoal by night — paper you can live with for hours, not a void or a glare. A film of grain so the screen does not look like glass. A thin progress line while you read. Refresh eases you back to the top of the room.
 
-**Markdown, then silence.** You write until it feels finished. Word count and a quiet “~1 min” keep you honest. There is no growth dashboard watching over your shoulder.
+**Markdown, then silence.** You write until it feels finished — or you **Mark** the page and come back. Word count and a quiet “~1 min” keep you honest. Excerpt is optional; if the title is enough, leave it blank. There is no growth dashboard watching over your shoulder.
 
 **Hearts and margin notes, not a comment war.** Affection is a heart. Conversation lives in the margin — small, signed, meant to sit beside the piece rather than bury it.
 
@@ -44,27 +44,29 @@ That is the USP: **editorial software with the manners of a literary magazine**,
 
 ### The room
 
-You arrive. A kicker: *A reading room.* A lede that tells you how many pieces live here now. Two doors: **Begin**, or **Wander the shelf**.
+You arrive. A kicker: *A reading room.* The headline sits on one line, the same size as every other door in the house. A lede that tells you — in a small live red — how many **pieces** live here now. Two doors: **Begin**, or **Wander the shelf**.
 
-Nothing blinks. Nothing autoplays. The paper holds still.
+Nothing blinks. Nothing autoplays. The paper holds still. Fresh ink and new desks turn like a journal: Back, Forward — and when the next page has settled, you are returned to the heading, not left among the buttons.
 
 ### The shelf
 
-Cards with a wash, a title, a breath of excerpt, a few minutes of estimated reading. Explore is a quiet search — words, tags — for when you know what you came for.
+Cards with a wash, a title, a breath of excerpt if there is one. The writer’s name always sits on the same line at the foot of the card, whether the excerpt is empty or full. Explore is a quiet search — words, tags — for when you know what you came for.
 
 ### The blank page
 
-Title. Excerpt (optional — *leave blank if the title is enough*). Body. Tags like handwritten labels. A row of cover swatches. Publish.
+Title. Excerpt (optional, a short line for the cover). Body. Tags like handwritten labels. A row of cover swatches.
 
-If you return, you revise. If the piece should leave the public rooms, you archive it. The desk remembers.
+**Mark** on the left — bookmark the unfinished page; it waits on your desk, private. **Publish** on the far right — when it is ready for the room. If you return to a mark, you continue. If a published piece should leave the public rooms, you archive it. The desk remembers.
 
 ### The reading
 
-A tall cover, then the essay. Date, minutes, the writer’s name. You can heart it. You can leave a note in the margin. The bar at the top of the window fills as you go — a courtesy, not a score.
+A tall cover that holds the title and excerpt in the wash, then minutes, date, tags, the writer. Then the essay. You can heart it. You can leave a note in the margin. The bar at the top of the window fills as you go — a courtesy, not a score.
 
 ### The desk
 
-`/u/you` is your public table. Settings are called what they are: edit the desk, sit for a portrait, choose an accent. Light paper or dark, with a single glyph in the nav: ◐
+`/u/you` is your public table. Write and Edit desk sit at the right edge of the portrait card. Settings are called what they are: sit for a portrait, choose an accent, leave a note no longer than a letter. Light paper or dark, with a single glyph in the nav: ◐
+
+Owners see three shelves: **On the shelf**, **Marks**, **Archive**.
 
 ---
 
@@ -85,9 +87,9 @@ If you need virality, Inkly will bore you. If you need a room, it was made for y
 | --- | --- |
 | Home | Fresh ink, new desks, a door to write |
 | Explore | Search and tags — the long shelf |
-| Write | A blank page, Markdown, cover washes |
-| A piece | Reading, hearts, margin notes |
-| A desk | Portrait, accent, published work (and, for you, the archive) |
+| Write | A blank page, Markdown, cover washes, Mark or Publish |
+| A piece | Cover, reading, hearts, margin notes |
+| A desk | Portrait, accent, published work — and, for you, Marks and the archive |
 | Enter / Begin | A quiet door. No spectacle. |
 
 ---
