@@ -8,6 +8,8 @@ Most of the internet asks you to perform. Inkly asks you to **leave something on
 
 > Write like you mean to be reread.
 
+**[Open the reading room →](https://inkly-bbg2.onrender.com)**
+
 ---
 
 ## Why it exists
@@ -17,8 +19,6 @@ There are platforms for shouting, platforms for threading, platforms for vanishi
 Inkly is that room, made of type and colour.
 
 You keep a **desk**: a name, a portrait, a colour that follows you. You publish **pieces**, not posts-as-content. Readers wander a **shelf**, not an algorithm’s mood. Time is measured in minutes of reading, not in streaks.
-
-The source stays private. This page is the window.
 
 ---
 
@@ -30,7 +30,7 @@ The source stays private. This page is the window.
 
 **A desk is a place, not a bio card.** Public profiles feel like rooms: accent, portrait, a note on the door, a count of pieces and hearts. Owners keep two private drawers — **Marks** for pages still becoming, and the **archive** for work that is finished talking for now.
 
-**The page is the product.** Fraunces for the voice, Outfit for the hands. Off-white linen by day; warm charcoal by night — paper you can live with for hours, not a void or a glare. A film of grain so the screen does not look like glass. A thin progress line while you read. Refresh eases you back to the top of the room.
+**The page is the product.** Fraunces for the voice, Outfit for the hands. Warm charcoal paper you can live with for hours, not a void or a glare. A film of grain so the screen does not look like glass. A thin progress line while you read.
 
 **Markdown, then silence.** You write until it feels finished — or you **Mark** the page and come back. Word count and a quiet “~1 min” keep you honest. Excerpt is optional; if the title is enough, leave it blank. There is no growth dashboard watching over your shoulder.
 
@@ -44,27 +44,27 @@ That is the USP: **editorial software with the manners of a literary magazine**,
 
 ### The room
 
-You arrive. A kicker: *A reading room.* The headline sits on one line, the same size as every other door in the house. A lede that tells you — in a small live red — how many **pieces** live here now. Two doors: **Begin**, or **Wander the shelf**.
+You arrive. A kicker: *A reading room.* The headline sits on one line. A lede that tells you how many **pieces** live here now. Two doors: **Begin**, or **Wander the shelf**.
 
-Nothing blinks. Nothing autoplays. The paper holds still. Fresh ink and new desks turn like a journal: Back, Forward — and when the next page has settled, you are returned to the heading, not left among the buttons.
+Nothing blinks. Nothing autoplays. The paper holds still. Fresh ink and new desks turn like a journal: Back, Forward.
 
 ### The shelf
 
-Cards with a wash, a title, a breath of excerpt if there is one. The writer’s name always sits on the same line at the foot of the card, whether the excerpt is empty or full. Explore is a quiet search — words, tags — for when you know what you came for.
+Cards with a wash, a title, a breath of excerpt if there is one. Explore is a quiet search — words, tags — for when you know what you came for.
 
 ### The blank page
 
 Title. Excerpt (optional, a short line for the cover). Body. Tags like handwritten labels. A row of cover swatches.
 
-**Mark** on the left — bookmark the unfinished page; it waits on your desk, private. **Publish** on the far right — when it is ready for the room. If you return to a mark, you continue. If a published piece should leave the public rooms, you archive it. The desk remembers.
+**Mark** on the left — bookmark the unfinished page; it waits on your desk, private. **Publish** on the far right — when it is ready for the room. If a published piece should leave the public rooms, you archive it. Restore it, or take it off the shelf for good.
 
 ### The reading
 
-A tall cover that holds the title and excerpt in the wash, then minutes, date, tags, the writer. Then the essay. You can heart it. You can leave a note in the margin. The bar at the top of the window fills as you go — a courtesy, not a score.
+A tall cover that holds the title and excerpt in the wash, then minutes, date, tags, the writer. Then the essay. You can heart it. You can leave a note in the margin. You can report a piece if the room needs it. The bar at the top of the window fills as you go — a courtesy, not a score.
 
 ### The desk
 
-`/u/you` is your public table. Write and Edit desk sit at the right edge of the portrait card. Settings are called what they are: sit for a portrait, choose an accent, leave a note no longer than a letter. Light paper or dark, with a single glyph in the nav: ◐
+`/u/you` is your public table. Write and Edit desk sit at the right edge of the portrait card. Settings: a portrait, an accent, a note no longer than a letter. Change the lock (password) or fold the desk (close the account). If you forget the key, a reset letter can find the address you signed with.
 
 Owners see three shelves: **On the shelf**, **Marks**, **Archive**.
 
@@ -90,19 +90,19 @@ If you need virality, Inkly will bore you. If you need a room, it was made for y
 | Write | A blank page, Markdown, cover washes, Mark or Publish |
 | A piece | Cover, reading, hearts, margin notes |
 | A desk | Portrait, accent, published work — and, for you, Marks and the archive |
-| Enter / Begin | A quiet door. No spectacle. |
+| Enter / Begin | A quiet door. No spectacle. No confirm-email maze. Register, then write. |
 
 ---
 
 ## Status
 
-Inkly is being finished in private and will open when the room is ready — a public address, desks you can claim, paper you can write on.
+The room is open.
 
-Until then, this repository is only a calling card: the idea, the rooms, the promise. The studio itself is not on public display.
+**[inkly-bbg2.onrender.com](https://inkly-bbg2.onrender.com)**
 
-When the doors open, this page will carry the link.
+Claim a desk. Publish a piece. The first visit after a quiet spell may take a moment — the lamp is waking.
 
-<!-- Replace when live: [Open the reading room →](https://your-inkly-url) -->
+When a shorter address exists, it will replace this one.
 
 ---
 
@@ -112,4 +112,4 @@ Inkly will never try to be everything. It is trying to be one thing well:
 
 **a place where writing is treated as furniture — something you live with, not something you throw away.**
 
-If that is what you have been looking for, keep this page. The light will come on.
+If that is what you have been looking for, the light is on.
