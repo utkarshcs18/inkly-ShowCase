@@ -98,7 +98,7 @@ If you need virality, Inkly will bore you. If you need a room, it was made for y
 
 The room is open.
 
-**[inkly-bbg2.onrender.com](https://inkly-bbg2.onrender.com)**
+**[Open→](https://inkly-bbg2.onrender.com)**
 
 Claim a desk. Publish a piece. The first visit after a quiet spell may take a moment — the lamp is waking.
 
